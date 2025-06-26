@@ -1,5 +1,5 @@
 # RoyalGuest Web Application
-
+I used the server Xampp and run the server by starting apache and mysql.
 **RoyalGuest** is a service request management web application built using **CodeIgniter 4** and **MariaDB**, providing a platform to manage guest service requests efficiently.
 
 ---
